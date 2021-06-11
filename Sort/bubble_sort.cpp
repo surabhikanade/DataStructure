@@ -13,7 +13,7 @@ int main()
         cin>>array[i];
     }
 
-    int counter=1;
+    int counter=1;  
     while (counter<n)
     {
         for (int i=0;i<n-counter;i++)
