@@ -1,0 +1,29 @@
+BOOK {
+  display: block;
+  margin-left: 0;
+  margin-bottom: 30pt;
+}
+CATALOG {
+  width: 100%;
+  background-color: #ffffff;
+}
+TITLE {
+  color: red;
+  display: block;
+  font-size: 20pt;
+}
+AUTHOR {
+  display: block;
+  color: #0000ff;
+  font-size: 20pt;
+}
+YEAR{
+  
+    display: block;
+    margin-left: 20pt;
+}
+PRICE{
+  
+    display: block;
+    margin-left: 20pt;
+}
