@@ -1,0 +1,48 @@
+.con
+{
+width:450px;
+height:500px;
+background-color:burlywood;
+color:blue;
+padding:0px 10px 0px 10px;
+margin:auto;
+border:1px solid black;
+
+}
+.main
+{
+width:400px;
+height:80px;
+float:left;
+padding:60px 10px 10px10px;
+margin: top;
+margin-top: 60px;
+
+}
+.img
+{
+    width: 200px;
+    height: 200px;
+    align:center;
+    margin: auto;
+    margin:top;
+    padding-bottom: 30%;
+    padding-left: 75%;
+    
+}
+.con1
+{
+width:400px;
+height:300px;
+float:left;
+margin:auto;
+padding:3px 3px 0px0px;
+}
+.con2
+{
+width:150px;
+height:80px;
+float:left;
+margin:10px 10px 10px10px;
+padding:0px 0px 0px0px;
+}
