@@ -1,3 +1,4 @@
+
 #include<iostream>
 #include<algorithm>
 #include<string>
@@ -8,9 +9,8 @@ int main()
 {
     string str;
 
-    string s1 ="sur";
-    string s2 = "abhi";
+    string s1 ="abc";
+    string s2 = "xyz";
     
-    cout<<s1[1]<<endl;
-    return 0;
+    cout<<s2.compare(s1)<<endl;
 }
