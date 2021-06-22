@@ -14,8 +14,6 @@ int linearSearch(int array[], int n ,int key )
         }
          return -1; 
     }
-
-
 int main()
 {
     int n;

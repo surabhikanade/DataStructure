@@ -1,3 +1,6 @@
+// Que. Given an array[] of size n, output summ of each subarray of the given array 
+
+
 #include<iostream>
 
 using namespace std;
