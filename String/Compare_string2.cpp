@@ -11,7 +11,7 @@ int main()
     string s1 = "abc";
     string s2 = "xyz";
 
-    if(s1.compare(s2)=0);
+    if(s1.compare(s2)==0);
     cout<<"strings are equal";
 
     cout<<s2.compare(s1)<<endl;
