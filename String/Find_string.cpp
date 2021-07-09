@@ -8,7 +8,7 @@ int main()
 {
     string s1 = "surabhikanade";
 
-    s1.find("samruddhu");
+    s1.find("sura");
 
     cout<<s1<<endl;
 
