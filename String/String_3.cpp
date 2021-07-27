@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-    string str; 
+    string str;
+
     getline(cin,str);
     // with space in string
     cout<<str<<endl;

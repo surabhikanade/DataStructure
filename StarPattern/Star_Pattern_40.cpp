@@ -5,17 +5,17 @@ using namespace std;
 int main()
 {
     int i,j;
-    char C='A';
+    char Ch='A';
 
     for(i=1;i<=5;i++)
     {
-        C='A';
+        Ch='A';
         for(j=1;j<=5;j++)
         {
             if(j<=i )
             {
-                cout<<C;
-                C++;
+                cout<<Ch;
+                Ch++;
             }
             else
             {
