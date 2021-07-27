@@ -18,6 +18,6 @@ int main()
 
 
     char ch = 'a';
-   ch =ch + 32;
+    ch =ch + 32;
     cout<<ch<<endl;
 }

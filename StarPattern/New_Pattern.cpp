@@ -9,15 +9,15 @@ using namespace std;
 
 int main()
 {
-    int no;
+    int no=0;
     int digit =0;
     cout<<"Enter a number"<<endl;
     cin>>no;
 
     while (no > 0)
     {
-    int digit = no %10;
-    if(digit%2==0)
+    digit = no %10;
+    if(digit%2==0)//even 
     cout<<digit<<endl;
     no =no/10;
     }
